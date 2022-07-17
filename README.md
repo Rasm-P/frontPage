@@ -1,11 +1,11 @@
 ### Software Engineering student always looking to improve ###
 
 ## A bit about myself ##
-- I have an AP degree in Computer Science but am currently studying Software Engineering
-- I like challenges and love learning new things
-- I am most passionate about Fullstack Web and Android app development
-- Goals: To graduate and work with agile projects that impact real people
-- Outside of Software: I am into MMORPGs but also like sports, especially Football
+- 📚 I have an AP degree in Computer Science but am currently studying Software Engineering
+- 👍 I like challenges and love learning new things
+- 💻 I am most passionate about Fullstack Web and Android app development
+- 🥅 Goals: To graduate and work with agile projects that impact real people
+- ⚽ Outside of Software: I am into MMORPGs but also like sports, especially Football
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -39,3 +39,12 @@
 <img align="left" alt="VScode" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Xamarin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
+
+<br>
+<br>
+<br>
+
+---
+
+<img align="left" alt="Rasm-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rasm-P&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
