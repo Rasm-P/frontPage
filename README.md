@@ -47,10 +47,3 @@
 ---
 
 <img align="center" alt="Rasm-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rasm-P&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
----
-
-<img align="center" alt="Rasm-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasm-P&langs_count=6&exclude_repo=TestExamExerciseType1Front,TestExamExerciseType2Front,Sem3ExamFront,TestExamExerciseType1,TestExamExerciseType2,testPipeline,Sem3Exam,&hide=jupyter%20notebook,html&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
