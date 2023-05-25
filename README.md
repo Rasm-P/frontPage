@@ -1,7 +1,7 @@
 ### Software Engineering student always looking to improve ###
 
 ## A bit about myself ##
-- 📚 I have an AP degree in Computer Science but am currently studying BEng Software Engineering
+- 📚 I have an AP degree in Computer Science but am currently studying a BEng Software Engineering
 - 👍 I like challenges and love learning new things
 - 💻 I am most passionate about Fullstack Web and Android app development
 - 🥅 Goals: To graduate and work with agile projects that impact real people
@@ -24,15 +24,18 @@
 
 <br>
 
-### Other Teknologies/tools:
+### Other Technologies/Tools:
 <img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Xamarin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xamarin/xamarin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ASP.NET" width="26px" src="https://github.com/Rubix982/ASP.NET-ReactJS-Template/blob/main/public/img/1.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQLite" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Travis" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/travis/travis-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 
 <br>
 <br>
@@ -40,4 +43,7 @@
 
 ---
 
-<img align="center" alt="Rasm-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rasm-P&show_icons=true&locale=en&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Rasm-P&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&layout=compact" alt="Rasm-P stats" width="480px"></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rasm-P&theme=codeSTACKr" alt="Rasm-P stats" width="480px"></a>
+ </div>
