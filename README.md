@@ -1,7 +1,7 @@
 ### Software Engineering student always looking to improve ###
 
 ## A bit about myself ##
-- 📚 I have an AP degree in Computer Science but am currently studying a BEng Software Engineering
+- 📚 I have an AP degree in Computer Science, a BEng in Software Technology, and am currently studying an MSc in Computer Science and Engineering
 - 👍 I like challenges and love learning new things
 - 💻 I am most passionate about Fullstack Web and Android app development
 - 🥅 Goals: To graduate and work with agile projects that impact real people
